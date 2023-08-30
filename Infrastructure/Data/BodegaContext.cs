@@ -20,7 +20,6 @@ public class BodegaContext : DbContext
             .HasMany<Producto>(g => g.Productos) 
             .WithOne(s => s.TipoProducto) 
             .HasForeignKey(s => s.IdTipoProductoFk);
-
         }
 
 }

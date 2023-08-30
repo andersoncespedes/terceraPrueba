@@ -2,6 +2,7 @@
 using Core.Entities;
 using Core.Interfaces;
 using Infrastructure.Repository;
+using Infrastructure.UnitOfWork;
 using Microsoft.EntityFrameworkCore;
 namespace API.Extension;
 
@@ -17,6 +18,6 @@ public static class ApplicationServiceExtension
         });
     }
     public static void AddAplicationService(this IServiceCollection services){
-        services.AddScoped<IProductoInterface, ProductoRepository>();
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
     }
 }
