@@ -1622,11 +1622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj",
+      "projectPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj",
       "packagesPath": "C:\\Users\\APOLT01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\obj\\",
+      "outputPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\APOLT01\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1641,8 +1641,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj"
+            "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

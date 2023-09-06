@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj": {}
+    "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj": {
+    "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj",
+        "projectPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\API.csproj",
         "packagesPath": "C:\\Users\\APOLT01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\obj\\",
+        "outputPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APOLT01\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj": {
+    "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\APOLT01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\obj\\",
+        "outputPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APOLT01\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\APOLT01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APOLT01\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -163,8 +163,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj"
+              "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj": {
+                "projectPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj"
               }
             }
           }

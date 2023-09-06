@@ -5,6 +5,7 @@ using Core.Entities;
 using Infrastructure.Repository;
 using infrastructure.Data;
 using Infrastructure.UnitOfWork;
+using System.Text.Json.Serialization;
 
 namespace API.Controllers;
 
@@ -17,6 +18,7 @@ namespace API.Controllers;
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
+      
         public async Task<ActionResult<IEnumerable<Producto>>> Get(){
             var res = await _unitOfWork.Productos.GetAllAsync();
             return Ok(res);

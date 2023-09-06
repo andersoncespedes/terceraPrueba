@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj": {}
+    "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj": {
+    "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\APOLT01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\obj\\",
+        "outputPath": "c:\\Users\\APOLT01\\Documents\\anderson\\Bodega\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APOLT01\\AppData\\Roaming\\NuGet\\NuGet.Config"
